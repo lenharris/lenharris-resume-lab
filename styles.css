@@ -14,4 +14,41 @@ h2 {
   opacity: 50%;
 }
 
+p {
+    padding-left: 15em;
+    padding-right: 15em;
 
+
+}
+
+.jdescrip {
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+}
+
+h3 {
+    text-align: left;
+}
+h4 {
+    text-align: left;
+}
+h5{
+    text-align: left;
+}
+
+#contact_form {
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+    background: #3D8E9F
+
+
+    
+}
+
+form {
+    text-align: center;
+}
