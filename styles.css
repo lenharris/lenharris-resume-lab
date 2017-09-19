@@ -1,4 +1,17 @@
-<!DOCTYPE html>
-<html>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</html>
+#banner {
+    height: 50px;
+    width: 100%;
+    background-color: #35A9A6;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+
+h2 {
+  border-top: 2px solid grey;
+  border-bottom: 2px solid #859DE7;
+  opacity: 50%;
+}
+
+
